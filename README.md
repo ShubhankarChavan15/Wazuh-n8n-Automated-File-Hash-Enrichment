@@ -361,7 +361,7 @@ This workflow successfully **automates file alert enrichment:**
 ## Project Screenshots
 
 ### 1. n8n Workflow
-![n8n Workflow](n8nFileHash.png)
+![n8n Workflow]
 
 ### 2. Webhook Execution / File Hash Received
 ![Webhook Execution](FileHashWebhook.png)
